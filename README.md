@@ -15,7 +15,7 @@ C:\Users\ovarflode\AppData\Local\Roblox\Versions\[version-id]
 4. Open `Versions`
 5. Find the folder that has a `PlatformContent` folder
 6. Go into the folder and look for a `textures` folder (for me it was \[version-id]\PlatformContent\pc\textures)
-7. Paste the contents of this repo inside
+7. Paste the contents of the raw-textures folder inside
 
 ## About DDS files:
 
