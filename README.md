@@ -1,7 +1,8 @@
 # roblox-og-textures
 The fact that this repository exists proves that Roblox doesn't play Roblox.
 
-Textures originally forked from build: version-6906e37557e045ba
+Textures originally forked from build: ***version-6906e37557e045ba***
+
 Obtainable by digging into %appdata% until I found the texture file
 
 C:\Users\ovarflode\AppData\Roaming\Local\Roblox\Versions\[version-id]
