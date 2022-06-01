@@ -1,5 +1,5 @@
 # roblox-og-textures
-The fact that this repository exists proves that Roblox doesn't play Roblox.
+Roblox doesn't play Roblox.
 
 Textures originally forked from build: ***version-b84e47443964487e***
 
